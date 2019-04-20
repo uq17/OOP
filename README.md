@@ -10,11 +10,10 @@ This program takes input from an external file (with validation) and allows the 
 ## Monty Hall Problem
 This program allows the user to play a game based on the famous probability puzzle of Monty Hall. This puzzle tests whether the correct door can be guessed successfully after being given a second chance. The program implements randomization and control flow to reflect the probablities inherent to the Monty Hall problem. View screenshots of the output below and download the source code [here](monty.cpp).
 
-![teams](1.png)
-![teams2](2.png)
+![teams](3.png)
 
 ## Array Manipulation
 This program allows the user to create, sort, and manipulate a basic array object based on their own input. The user is given a menu option and the ability to manipulate the array based on index. View the screenshots of the output below and download the source code [here](arrays.cpp).
 
-![teams](1.png)
-![teams2](2.png)
+![teams](4.png)
+![teams2](5.png)
