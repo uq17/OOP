@@ -1,4 +1,4 @@
-# Object Oriented Programming with C++
+# Object-Oriented Programming with C++
 This repository contains C++ programs that explore the concepts of object-oriented programming. Each project was created and compiled using Visual Studio 2017. Each program was developed according to strict requirements and integrates basic mathematical algorithms with C++'s native API. 
 
 ## Data Manipulation 
